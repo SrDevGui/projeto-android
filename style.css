@@ -160,7 +160,7 @@ footer{
   padding: 5px;
 }
 *{
-  margin: 0px;
+  margin: 1px;
   padding: 0px;
 }
 a.externo:after{ 
